@@ -1,8 +1,0 @@
-{
-    "app_id": "devicesync-akmsl",
-    "config_version": 20210101,
-    "name": "DeviceSync",
-    "location": "IN-MB",
-    "provider_region": "aws-ap-south-1",
-    "deployment_model": "LOCAL"
-}
